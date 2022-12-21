@@ -77,6 +77,8 @@ public class Clockandangle {
 		// TODO Auto-generated method stub
 		 System.out.println(calcAngle(5, 30)); 
 	     System.out.println(calcAngle(6, 00)); 
+	     System.out.println(calcAngle(11, 00)); 
+         System.out.println(calcAngle(11, 50));
 
 	}
 
